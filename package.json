@@ -45,7 +45,8 @@
     "slick-carousel": "^1.8.1",
     "topojson": "^3.0.2",
     "topojson-client": "^3.1.0",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "@paulhfischer/eslint-config-typescript-react": "1.29.5"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -78,7 +79,6 @@
   },
   "devDependencies": {
     "env": "0.0.2",
-    "env-cmd": "^10.1.0",
-    "@paulhfischer/eslint-config-typescript-react": "1.29.5"
+    "env-cmd": "^10.1.0"
   }
 }
